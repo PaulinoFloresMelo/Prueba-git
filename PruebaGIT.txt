@@ -1,7 +1,5 @@
 hola mundo!
 Hola mundo 2!
-<<<<<<< HEAD
 Conflicto desde Master!
-=======
-hola mundo desde rama1!
->>>>>>> rama1
+solución del conflicto parte2
+Se me olvidó este comentarios en el commit "Commit de prueba para el amend" y lo solucione con un amend
