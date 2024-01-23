@@ -1,3 +1,7 @@
 hola mundo!
 Hola mundo 2!
+<<<<<<< HEAD
+Conflicto desde Master!
+=======
 hola mundo desde rama1!
+>>>>>>> rama1
