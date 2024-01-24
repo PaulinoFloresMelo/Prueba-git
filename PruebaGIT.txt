@@ -3,3 +3,4 @@ Hola mundo 2!
 Conflicto desde Master!
 solución del conflicto parte2
 Se me olvidó este comentarios en el commit "Commit de prueba para el amend" y lo solucione con un amend
+Paulino Flores Melo Pull Request 
