@@ -2,3 +2,4 @@ mi primer stash
 probando el amend con el commit "commit de prueba para el amend"
 Prueba del git checkout commit 1
 Prueba del git checkout commit 2
+Prueba del git checkout commit 3
