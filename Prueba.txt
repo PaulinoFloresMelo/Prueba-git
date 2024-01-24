@@ -1,2 +1,4 @@
 mi primer stash
 probando el amend con el commit "commit de prueba para el amend"
+Probando el "git reset HEAD~ --soft"
+Probando el "git reset HEAD~ --soft" 2git 
